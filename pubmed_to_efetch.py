@@ -20,15 +20,27 @@ if args['in']=='%#$' or not os.path.isfile(args['in']):
     exit(1)
 
 # Define REGEX search patterns
-pmid_pattern  = re.compile("^PMID- (\d+)$")
-title_pattern = re.compile("^TI  - ([\s\S]+)$")
+pmid_pattern  = re.compile(r"^PMID- (\d+)$")
+title_pattern = re.compile(r"^TI  - ([\s\S]+)$")
 
 # Load File Contents Line-By-Line
 with open(args['in']) as pubmed_file:
+
 	for line in pubmed_file:
+		
 		if pmid_pattern.match(line):
+
+			# Save PMID
 			entry_pmid  = pmid_pattern.search(line).group(1)
-			print(entry_pmid)
+
 		if title_pattern.match(line):
+
+			# Save Title
 			entry_title = title_pattern.search(line).group(1)
+
+			# Remove all non-alphanumeric characters from title
+			entry_title = re.sub(r"[^\w\s]", '', entry_title)
+
+			# Replace all whitespace between alphanumreci with '_'
+			entry_title = "_".join(entry_title.split())
 			print(entry_title)
