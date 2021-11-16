@@ -19,7 +19,11 @@ if args['in']=='%#$' or not os.path.isfile(args['in']):
     print ("Error: Must specify valid input PUBMED file.")
     exit(1)
 
+# Define REGEX search patterns
+pattern = re.compile("^PMID- \\d+$")
+
 # Load File Contents Line-By-Line
 with open(args['in']) as pubmed_file:
 	for line in pubmed_file:
-		print(line)
+		if pattern.match(line):
+			print(line)
