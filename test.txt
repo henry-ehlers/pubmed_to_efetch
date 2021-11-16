@@ -11,6 +11,7 @@ IP  - 2
 DP  - 2020 Apr 16
 TI  - The Human Tumor Atlas Network: Charting Tumor Transitions across Space and Time at 
       Single-Cell Resolution.
+      Single-Cell Resolution.
 PG  - 236-249
 LID - S0092-8674(20)30346-9 [pii]
 LID - 10.1016/j.cell.2020.03.053 [doi]

@@ -22,25 +22,74 @@ if args['in']=='%#$' or not os.path.isfile(args['in']):
 # Define REGEX search patterns
 pmid_pattern  = re.compile(r"^PMID- (\d+)$")
 title_pattern = re.compile(r"^TI  - ([\s\S]+)$")
+rolling_title = re.compile(r"^      ([\s\S]+)$")
+
+# Open output file
+esearch_file  = open(args['out'], 'w+')
+
+# Initialize Entry ID and Title + rolling title
+entry_pmid    = None
+entry_title   = None
+part_title    = None
+title_ongoing = False
 
 # Load File Contents Line-By-Line
 with open(args['in']) as pubmed_file:
 
+	# Iterate over each line
 	for line in pubmed_file:
 		
+		# Find PMID
 		if pmid_pattern.match(line):
 
 			# Save PMID
 			entry_pmid  = pmid_pattern.search(line).group(1)
 
+			# Move to next line
+			continue
+
+		# Find title
 		if title_pattern.match(line):
 
-			# Save Title
+			# Extract and Format Title for Esearch
 			entry_title = title_pattern.search(line).group(1)
-
-			# Remove all non-alphanumeric characters from title
 			entry_title = re.sub(r"[^\w\s]", '', entry_title)
-
-			# Replace all whitespace between alphanumreci with '_'
 			entry_title = "_".join(entry_title.split())
-			print(entry_title)
+
+			# Indicate title may be ongoing and move to next line
+			title_ongoing = True
+			continue
+		
+		# Extract Rolling title to next line
+		if rolling_title.match(line) and title_ongoing:
+
+			# Extract and Format Ongoing Title for Esearch
+			part_title = rolling_title.search(line).group(1)
+			part_title = re.sub(r"[^\w\s]", '', part_title)
+			part_title = "_".join(part_title.split())
+
+			# Append part title to complete title and move to next line
+			entry_title = entry_title + "_" + part_title
+			continue
+
+		# End search for multi-line title
+		if (not rolling_title.match(line)) and title_ongoing:
+
+			# Reset ongoing title and move to next iteration
+			title_ongoing = False
+			continue
+			
+		# Save Entry
+		if entry_pmid and entry_title and not title_ongoing:
+
+			# save to file
+			esearch_file.write("{}\t{}\n".format(entry_pmid, entry_title))
+
+			# reset title and pmid
+			entry_pmid  = None
+			entry_title = None
+			part_title  = None
+
+# Close all file connections
+esearch_file.close()
+pubmed_file.close()
