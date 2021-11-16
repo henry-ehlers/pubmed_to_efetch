@@ -20,10 +20,15 @@ if args['in']=='%#$' or not os.path.isfile(args['in']):
     exit(1)
 
 # Define REGEX search patterns
-pattern = re.compile("^PMID- \\d+$")
+pmid_pattern  = re.compile("^PMID- (\d+)$")
+title_pattern = re.compile("^TI  - ([\s\S]+)$")
 
 # Load File Contents Line-By-Line
 with open(args['in']) as pubmed_file:
 	for line in pubmed_file:
-		if pattern.match(line):
-			print(line)
+		if pmid_pattern.match(line):
+			entry_pmid  = pmid_pattern.search(line).group(1)
+			print(entry_pmid)
+		if title_pattern.match(line):
+			entry_title = title_pattern.search(line).group(1)
+			print(entry_title)
