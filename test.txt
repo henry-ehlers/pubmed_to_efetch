@@ -1,0 +1,1955 @@
+PMID- 32302568
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201123
+LR  - 20210623
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Print)
+IS  - 0092-8674 (Linking)
+VI  - 181
+IP  - 2
+DP  - 2020 Apr 16
+TI  - The Human Tumor Atlas Network: Charting Tumor Transitions across Space and Time at 
+      Single-Cell Resolution.
+PG  - 236-249
+LID - S0092-8674(20)30346-9 [pii]
+LID - 10.1016/j.cell.2020.03.053 [doi]
+AB  - Crucial transitions in cancer-including tumor initiation, local expansion, 
+      metastasis, and therapeutic resistance-involve complex interactions between cells 
+      within the dynamic tumor ecosystem. Transformative single-cell genomics technologies 
+      and spatial multiplex in situ methods now provide an opportunity to interrogate this 
+      complexity at unprecedented resolution. The Human Tumor Atlas Network (HTAN), part 
+      of the National Cancer Institute (NCI) Cancer Moonshot Initiative, will establish a 
+      clinical, experimental, computational, and organizational framework to generate 
+      informative and accessible three-dimensional atlases of cancer transitions for a 
+      diverse set of tumor types. This effort complements both ongoing efforts to map 
+      healthy organs and previous large-scale cancer genomics approaches focused on bulk 
+      sequencing at a single point in time. Generating single-cell, multiparametric, 
+      longitudinal atlases and integrating them with clinical outcomes should help 
+      identify novel predictive biomarkers and features as well as therapeutically 
+      relevant cell types, cell states, and cellular interactions across transitions. The 
+      resulting tumor atlases should have a profound impact on our understanding of cancer 
+      biology and have the potential to improve cancer detection, prevention, and 
+      therapeutic discovery for better precision-medicine treatments of cancer patients 
+      and those at risk for cancer.
+CI  - Copyright © 2020. Published by Elsevier Inc.
+FAU - Rozenblatt-Rosen, Orit
+AU  - Rozenblatt-Rosen O
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+FAU - Regev, Aviv
+AU  - Regev A
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; Howard Hughes Medical 
+      Institute, Chevy Chase, MD 20815, USA; Koch Institute for Integrative Cancer 
+      Research, Department of Biology, MIT, Cambridge, MA 02139, USA. Electronic address: 
+      aregev@broadinstitute.org.
+FAU - Oberdoerffer, Philipp
+AU  - Oberdoerffer P
+AD  - Division of Cancer Biology, National Cancer Institute, NIH, Rockville, MD 20850, 
+      USA.
+FAU - Nawy, Tal
+AU  - Nawy T
+AD  - Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan 
+      Kettering Cancer Center, New York, NY 10065, USA.
+FAU - Hupalowska, Anna
+AU  - Hupalowska A
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+FAU - Rood, Jennifer E
+AU  - Rood JE
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+FAU - Ashenberg, Orr
+AU  - Ashenberg O
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+FAU - Cerami, Ethan
+AU  - Cerami E
+AD  - Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA 02215, USA.
+FAU - Coffey, Robert J
+AU  - Coffey RJ
+AD  - Department of Medicine, Vanderbilt University Medical Center, Nashville, TN 37232, 
+      USA.
+FAU - Demir, Emek
+AU  - Demir E
+AD  - Department of Molecular and Medical Genetics, School of Medicine, Oregon Health & 
+      Science University, Portland, OR 97239, USA.
+FAU - Ding, Li
+AU  - Ding L
+AD  - Department of Medicine, McDonnell Genome Institute, and Siteman Cancer Center, 
+      Washington University in St. Louis, Saint Louis, MO 63108, USA.
+FAU - Esplin, Edward D
+AU  - Esplin ED
+AD  - Department of Genetics, Stanford School of Medicine, Stanford, CA 94305, USA.
+FAU - Ford, James M
+AU  - Ford JM
+AD  - Department of Genetics, Stanford School of Medicine, Stanford, CA 94305, USA; 
+      Department of Medicine, Oncology Division, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Goecks, Jeremy
+AU  - Goecks J
+AD  - Computational Biology Program, Oregon Health and Science University, OR 97201, USA.
+FAU - Ghosh, Sharmistha
+AU  - Ghosh S
+AD  - Division of Cancer Prevention, National Cancer Institute, NIH, Rockville, MD 20850, 
+      USA.
+FAU - Gray, Joe W
+AU  - Gray JW
+AD  - Center for Spatial Systems Biomedicine, Department of Biomedical Engineering, Oregon 
+      Health & Science University, Portland, OR 97201, USA.
+FAU - Guinney, Justin
+AU  - Guinney J
+AD  - Sage Bionetworks, Seattle, WA 98121, USA; Biomedical Informatics and Medical 
+      Education, University of Washington, Seattle, WA 98195, USA.
+FAU - Hanlon, Sean E
+AU  - Hanlon SE
+AD  - Center for Strategic Scientific Initiatives, National Cancer Institute, NIH, 
+      Bethesda, MD 20892, USA.
+FAU - Hughes, Shannon K
+AU  - Hughes SK
+AD  - Division of Cancer Biology, National Cancer Institute, NIH, Rockville, MD 20850, 
+      USA.
+FAU - Hwang, E Shelley
+AU  - Hwang ES
+AD  - Department of Surgery, Duke University School of Medicine, Durham, NC 27710, USA; 
+      Women's Cancer Program, Duke Cancer Institute, Duke University, Durham, NC 27710, 
+      USA.
+FAU - Iacobuzio-Donahue, Christine A
+AU  - Iacobuzio-Donahue CA
+AD  - David M. Rubenstein Center for Pancreatic Cancer Research, Human Oncology and 
+      Pathogenesis Program, and Department of Pathology, Memorial Sloan Kettering Cancer 
+      Center, New York, NY 10065, USA.
+FAU - Jané-Valbuena, Judit
+AU  - Jané-Valbuena J
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+FAU - Johnson, Bruce E
+AU  - Johnson BE
+AD  - Department of Medical Oncology and Department of Medicine, Dana-Farber Cancer 
+      Institute and Brigham and Women's Hospital, 450 Brookline Avenue, Boston, MA 02215, 
+      USA.
+FAU - Lau, Ken S
+AU  - Lau KS
+AD  - Department of Medicine, Vanderbilt University Medical Center, Nashville, TN 37232, 
+      USA.
+FAU - Lively, Tracy
+AU  - Lively T
+AD  - Division of Cancer Treatment and Diagnosis, National Cancer Institute, NIH, 
+      Rockville, MD 20850, USA.
+FAU - Mazzilli, Sarah A
+AU  - Mazzilli SA
+AD  - Department of Medicine, Division of Computational Biomedicine, Boston University 
+      School of Medicine, Boston, MA 02118, USA.
+FAU - Pe'er, Dana
+AU  - Pe'er D
+AD  - Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan 
+      Kettering Cancer Center, New York, NY 10065, USA.
+FAU - Santagata, Sandro
+AU  - Santagata S
+AD  - Ludwig Center for Cancer Research and Laboratory of Systems Pharmacology, Department 
+      of Systems Biology, Harvard Medical School, Boston, MA 02115, USA; Department of 
+      Pathology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115, 
+      USA.
+FAU - Shalek, Alex K
+AU  - Shalek AK
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; Institute for Medical 
+      Engineering and Science, Department of Chemistry, and Koch Institute for Integrative 
+      Cancer Research, MIT, Cambridge, MA 02139, USA; Ragon Institute of Massachusetts 
+      General Hospital, MIT and Harvard University, Cambridge, MA 02139, USA; Division of 
+      Health Sciences and Technology, Harvard Medical School, Boston, MA 02115, USA; 
+      Department of Immunology, Massachusetts General Hospital, Boston, MA 02114, USA.
+FAU - Schapiro, Denis
+AU  - Schapiro D
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; Ludwig Center for 
+      Cancer Research and Laboratory of Systems Pharmacology, Department of Systems 
+      Biology, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Snyder, Michael P
+AU  - Snyder MP
+AD  - Department of Genetics, Stanford School of Medicine, Stanford, CA 94305, USA.
+FAU - Sorger, Peter K
+AU  - Sorger PK
+AD  - Ludwig Center for Cancer Research and Laboratory of Systems Pharmacology, Department 
+      of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Spira, Avrum E
+AU  - Spira AE
+AD  - Department of Medicine, Division of Computational Biomedicine, Boston University 
+      School of Medicine, Boston, MA 02118, USA; Johnson & Johnson, Cambridge, MA 02142, 
+      USA.
+FAU - Srivastava, Sudhir
+AU  - Srivastava S
+AD  - Division of Cancer Prevention, National Cancer Institute, NIH, Rockville, MD 20850, 
+      USA.
+FAU - Tan, Kai
+AU  - Tan K
+AD  - Division of Oncology and Center for Childhood Cancer Research, 4004 CTRB, Children's 
+      Hospital of Philadelphia, 3501 Civic Center Boulevard, Philadelphia, PA 19104, USA; 
+      Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania, 
+      Philadelphia, PA 19104, USA.
+FAU - West, Robert B
+AU  - West RB
+AD  - Department of Pathology, Stanford School of Medicine, Stanford, CA 94305, USA.
+FAU - Williams, Elizabeth H
+AU  - Williams EH
+AD  - Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA 02215, USA; 
+      Present address: Foundation Medicine, Cambridge, MA 02141, USA.
+CN  - Human Tumor Atlas Network
+LA  - eng
+GR  - U24 CA233243/CA/NCI NIH HHS/United States
+GR  - P30 CA008748/CA/NCI NIH HHS/United States
+GR  - U2C CA233280/CA/NCI NIH HHS/United States
+GR  - U2C CA233262/CA/NCI NIH HHS/United States
+GR  - U2C CA233291/CA/NCI NIH HHS/United States
+GR  - U2C CA233284/CA/NCI NIH HHS/United States
+GR  - HHSN261201500003I/CA/NCI NIH HHS/United States
+GR  - R35 CA197570/CA/NCI NIH HHS/United States
+GR  - U2C CA233254/CA/NCI NIH HHS/United States
+GR  - U24 CA231877/CA/NCI NIH HHS/United States
+GR  - P30 DK058404/DK/NIDDK NIH HHS/United States
+GR  - R37 CA219697/CA/NCI NIH HHS/United States
+GR  - U01 CA235482/CA/NCI NIH HHS/United States
+GR  - HHMI/Howard Hughes Medical Institute/United States
+GR  - U2C CA233238/CA/NCI NIH HHS/United States
+GR  - U54 CA224083/CA/NCI NIH HHS/United States
+GR  - R24 OD024624/OD/NIH HHS/United States
+GR  - P30 CA091842/CA/NCI NIH HHS/United States
+GR  - K08 CA237732/CA/NCI NIH HHS/United States
+GR  - U2C CA233195/CA/NCI NIH HHS/United States
+GR  - P50 CA236733/CA/NCI NIH HHS/United States
+GR  - U2C CA233285/CA/NCI NIH HHS/United States
+GR  - U2C CA233303/CA/NCI NIH HHS/United States
+GR  - U2C CA233311/CA/NCI NIH HHS/United States
+GR  - T32 CA207021/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+TA  - Cell
+JT  - Cell
+JID - 0413066
+SB  - IM
+MH  - Atlases as Topic
+MH  - Cell Transformation, Neoplastic/*metabolism/pathology
+MH  - Genomics/methods
+MH  - Humans
+MH  - Neoplasms/*metabolism
+MH  - Precision Medicine/methods
+MH  - Single-Cell Analysis/methods
+MH  - Tumor Microenvironment/*physiology
+PMC - PMC7376497
+MID - NIHMS1587971
+OTO - NOTNLM
+OT  - *AI
+OT  - *Cancer Moonshot
+OT  - *Human Tumor Atlas
+OT  - *cancer transitions
+OT  - *data integration
+OT  - *data visualization
+OT  - *metastasis
+OT  - *pre-cancer
+OT  - *resistance
+OT  - *single-cell genomics
+OT  - *spatial genomics
+OT  - *spatial imaging
+OT  - *tumor
+COIS- Declaration of Interests A.R. is a founder of and equity holder in Celsius 
+      Therapeutics, an equity holder in Immunitas Therapeutics, and a scientific advisory 
+      board (SAB) member of Syros Pharmaceuticals, ThermoFisher Scientific, Asimov, and 
+      NeoGene Therapeutics. A.K.S. has received compensation for consulting for and being 
+      on the SAB of Honeycomb Biotechnologies, Cellarity, Cogen Therapeutics, and Dahlia 
+      Biosciences. O.R.R., A.K.S., and A.R. are co-inventors on patent applications filed 
+      by the Broad Institute to inventions relating to single-cell genomics, such as in 
+      PCT/US2018/060860 and US provisional application no. 62/745,259. J.W.G. has licensed 
+      technologies to Abbott Diagnostics and Danaher and has ownership positions in PDX 
+      Pharmaceuticals and Convergent Genomics. He serves as an advisor to New Leaf 
+      Ventures and receives private-sector research support from Zeiss, ThermoFisher, 
+      Danaher, Micron, PDX Pharmaceuticals, and Quantitative Imaging. C.I.D. receives 
+      research support from Bristol-Myers Squibb. S.S. is a consultant for RareCyte, Inc. 
+      A.S. is an employee of Johnson & Johnson. S.A.M. has commercial research grants from 
+      Johnson & Johnson. P.K.S. is a member of the SAB or board of directors of and has 
+      equity in Glencoe Software and RareCyte Inc., which create software and instruments 
+      for tissue imaging.
+FIR - Aberle, Denise
+IR  - Aberle D
+FIR - Achilefu, Samuel I
+IR  - Achilefu SI
+FIR - Ademuyiwa, Foluso O
+IR  - Ademuyiwa FO
+FIR - Adey, Andrew C
+IR  - Adey AC
+FIR - Aft, Rebecca L
+IR  - Aft RL
+FIR - Agarwal, Rachana
+IR  - Agarwal R
+FIR - Aguilar, Ruben A
+IR  - Aguilar RA
+FIR - Alikarami, Fatemeh
+IR  - Alikarami F
+FIR - Allaj, Viola
+IR  - Allaj V
+FIR - Amos, Christopher
+IR  - Amos C
+FIR - Anders, Robert A
+IR  - Anders RA
+FIR - Angelo, Michael R
+IR  - Angelo MR
+FIR - Anton, Kristen
+IR  - Anton K
+FIR - Ashenberg, Orr
+IR  - Ashenberg O
+FIR - Aster, Jon C
+IR  - Aster JC
+FIR - Babur, Ozgun
+IR  - Babur O
+FIR - Bahmani, Amir
+IR  - Bahmani A
+FIR - Balsubramani, Akshay
+IR  - Balsubramani A
+FIR - Barrett, David
+IR  - Barrett D
+FIR - Beane, Jennifer
+IR  - Beane J
+FIR - Bender, Diane E
+IR  - Bender DE
+FIR - Bernt, Kathrin
+IR  - Bernt K
+FIR - Berry, Lynne
+IR  - Berry L
+FIR - Betts, Courtney B
+IR  - Betts CB
+FIR - Bletz, Julie
+IR  - Bletz J
+FIR - Blise, Katie
+IR  - Blise K
+FIR - Boire, Adrienne
+IR  - Boire A
+FIR - Boland, Genevieve
+IR  - Boland G
+FIR - Borowsky, Alexander
+IR  - Borowsky A
+FIR - Bosse, Kristopher
+IR  - Bosse K
+FIR - Bott, Matthew
+IR  - Bott M
+FIR - Boyden, Ed
+IR  - Boyden E
+FIR - Brooks, James
+IR  - Brooks J
+FIR - Bueno, Raphael
+IR  - Bueno R
+FIR - Burlingame, Erik A
+IR  - Burlingame EA
+FIR - Cai, Qiuyin
+IR  - Cai Q
+FIR - Campbell, Joshua
+IR  - Campbell J
+FIR - Caravan, Wagma
+IR  - Caravan W
+FIR - Cerami, Ethan
+IR  - Cerami E
+FIR - Chaib, Hassan
+IR  - Chaib H
+FIR - Chan, Joseph M
+IR  - Chan JM
+FIR - Chang, Young Hwan
+IR  - Chang YH
+FIR - Chatterjee, Deyali
+IR  - Chatterjee D
+FIR - Chaudhary, Ojasvi
+IR  - Chaudhary O
+FIR - Chen, Alyce A
+IR  - Chen AA
+FIR - Chen, Bob
+IR  - Chen B
+FIR - Chen, Changya
+IR  - Chen C
+FIR - Chen, Chia-Hui
+IR  - Chen CH
+FIR - Chen, Feng
+IR  - Chen F
+FIR - Chen, Yu-An
+IR  - Chen YA
+FIR - Chheda, Milan G
+IR  - Chheda MG
+FIR - Chin, Koei
+IR  - Chin K
+FIR - Chiu, Roxanne
+IR  - Chiu R
+FIR - Chu, Shih-Kai
+IR  - Chu SK
+FIR - Chuaqui, Rodrigo
+IR  - Chuaqui R
+FIR - Chun, Jaeyoung
+IR  - Chun J
+FIR - Cisneros, Luis
+IR  - Cisneros L
+FIR - Coffey, Robert J
+IR  - Coffey RJ
+FIR - Colditz, Graham A
+IR  - Colditz GA
+FIR - Cole, Kristina
+IR  - Cole K
+FIR - Collins, Natalie
+IR  - Collins N
+FIR - Contrepois, Kevin
+IR  - Contrepois K
+FIR - Coussens, Lisa M
+IR  - Coussens LM
+FIR - Creason, Allison L
+IR  - Creason AL
+FIR - Crichton, Daniel
+IR  - Crichton D
+FIR - Curtis, Christina
+IR  - Curtis C
+FIR - Davidsen, Tanja
+IR  - Davidsen T
+FIR - Davies, Sherri R
+IR  - Davies SR
+FIR - de Bruijn, Ino
+IR  - de Bruijn I
+FIR - Dellostritto, Laura
+IR  - Dellostritto L
+FIR - De Marzo, Angelo
+IR  - De Marzo A
+FIR - Demir, Emek
+IR  - Demir E
+FIR - DeNardo, David G
+IR  - DeNardo DG
+FIR - Diep, Dinh
+IR  - Diep D
+FIR - Ding, Li
+IR  - Ding L
+FIR - Diskin, Sharon
+IR  - Diskin S
+FIR - Doan, Xengie
+IR  - Doan X
+FIR - Drewes, Julia
+IR  - Drewes J
+FIR - Dubinett, Stephen
+IR  - Dubinett S
+FIR - Dyer, Michael
+IR  - Dyer M
+FIR - Egger, Jacklynn
+IR  - Egger J
+FIR - Eng, Jennifer
+IR  - Eng J
+FIR - Engelhardt, Barbara
+IR  - Engelhardt B
+FIR - Erwin, Graham
+IR  - Erwin G
+FIR - Esplin, Edward D
+IR  - Esplin ED
+FIR - Esserman, Laura
+IR  - Esserman L
+FIR - Felmeister, Alex
+IR  - Felmeister A
+FIR - Feiler, Heidi S
+IR  - Feiler HS
+FIR - Fields, Ryan C
+IR  - Fields RC
+FIR - Fisher, Stephen
+IR  - Fisher S
+FIR - Flaherty, Keith
+IR  - Flaherty K
+FIR - Flournoy, Jennifer
+IR  - Flournoy J
+FIR - Ford, James M
+IR  - Ford JM
+FIR - Fortunato, Angelo
+IR  - Fortunato A
+FIR - Frangieh, Allison
+IR  - Frangieh A
+FIR - Frye, Jennifer L
+IR  - Frye JL
+FIR - Fulton, Robert S
+IR  - Fulton RS
+FIR - Galipeau, Danielle
+IR  - Galipeau D
+FIR - Gan, Siting
+IR  - Gan S
+FIR - Gao, Jianjiong
+IR  - Gao J
+FIR - Gao, Long
+IR  - Gao L
+FIR - Gao, Peng
+IR  - Gao P
+FIR - Gao, Vianne R
+IR  - Gao VR
+FIR - Geiger, Tim
+IR  - Geiger T
+FIR - George, Ajit
+IR  - George A
+FIR - Getz, Gad
+IR  - Getz G
+FIR - Ghosh, Sharmistha
+IR  - Ghosh S
+FIR - Giannakis, Marios
+IR  - Giannakis M
+FIR - Gibbs, David L
+IR  - Gibbs DL
+FIR - Gillanders, William E
+IR  - Gillanders WE
+FIR - Goecks, Jeremy
+IR  - Goecks J
+FIR - Goedegebuure, Simon P
+IR  - Goedegebuure SP
+FIR - Gould, Alanna
+IR  - Gould A
+FIR - Gowers, Kate
+IR  - Gowers K
+FIR - Gray, Joe W
+IR  - Gray JW
+FIR - Greenleaf, William
+IR  - Greenleaf W
+FIR - Gresham, Jeremy
+IR  - Gresham J
+FIR - Guerriero, Jennifer L
+IR  - Guerriero JL
+FIR - Guha, Tuhin K
+IR  - Guha TK
+FIR - Guimaraes, Alexander R
+IR  - Guimaraes AR
+FIR - Guinney, Justin
+IR  - Guinney J
+FIR - Gutman, David
+IR  - Gutman D
+FIR - Hacohen, Nir
+IR  - Hacohen N
+FIR - Hanlon, Sean
+IR  - Hanlon S
+FIR - Hansen, Casey R
+IR  - Hansen CR
+FIR - Harismendy, Olivier
+IR  - Harismendy O
+FIR - Harris, Kathleen A
+IR  - Harris KA
+FIR - Hata, Aaron
+IR  - Hata A
+FIR - Hayashi, Akimasa
+IR  - Hayashi A
+FIR - Heiser, Cody
+IR  - Heiser C
+FIR - Helvie, Karla
+IR  - Helvie K
+FIR - Herndon, John M
+IR  - Herndon JM
+FIR - Hirst, Gilliam
+IR  - Hirst G
+FIR - Hodi, Frank
+IR  - Hodi F
+FIR - Hollmann, Travis
+IR  - Hollmann T
+FIR - Horning, Aaron
+IR  - Horning A
+FIR - Hsieh, James J
+IR  - Hsieh JJ
+FIR - Hughes, Shannon
+IR  - Hughes S
+FIR - Huh, Won Jae
+IR  - Huh WJ
+FIR - Hunger, Stephen
+IR  - Hunger S
+FIR - Hwang, Shelley E
+IR  - Hwang SE
+FIR - Iacobuzio-Donahue, Christine A
+IR  - Iacobuzio-Donahue CA
+FIR - Ijaz, Heba
+IR  - Ijaz H
+FIR - Izar, Benjamin
+IR  - Izar B
+FIR - Jacobson, Connor A
+IR  - Jacobson CA
+FIR - Janes, Samuel
+IR  - Janes S
+FIR - Jané-Valbuena, Judit
+IR  - Jané-Valbuena J
+FIR - Jayasinghe, Reyka G
+IR  - Jayasinghe RG
+FIR - Jiang, Lihua
+IR  - Jiang L
+FIR - Johnson, Brett E
+IR  - Johnson BE
+FIR - Johnson, Bruce
+IR  - Johnson B
+FIR - Ju, Tao
+IR  - Ju T
+FIR - Kadara, Humam
+IR  - Kadara H
+FIR - Kaestner, Klaus
+IR  - Kaestner K
+FIR - Kagan, Jacob
+IR  - Kagan J
+FIR - Kalinke, Lukas
+IR  - Kalinke L
+FIR - Keith, Robert
+IR  - Keith R
+FIR - Khan, Aziz
+IR  - Khan A
+FIR - Kibbe, Warren
+IR  - Kibbe W
+FIR - Kim, Albert H
+IR  - Kim AH
+FIR - Kim, Erika
+IR  - Kim E
+FIR - Kim, Junhyong
+IR  - Kim J
+FIR - Kolodzie, Annette
+IR  - Kolodzie A
+FIR - Kopytra, Mateusz
+IR  - Kopytra M
+FIR - Kotler, Eran
+IR  - Kotler E
+FIR - Krueger, Robert
+IR  - Krueger R
+FIR - Krysan, Kostyantyn
+IR  - Krysan K
+FIR - Kundaje, Anshul
+IR  - Kundaje A
+FIR - Ladabaum, Uri
+IR  - Ladabaum U
+FIR - Lake, Blue B
+IR  - Lake BB
+FIR - Lam, Huy
+IR  - Lam H
+FIR - Laquindanum, Rozelle
+IR  - Laquindanum R
+FIR - Lau, Ken S
+IR  - Lau KS
+FIR - Laughney, Ashley M
+IR  - Laughney AM
+FIR - Lee, Hayan
+IR  - Lee H
+FIR - Lenburg, Marc
+IR  - Lenburg M
+FIR - Leonard, Carina
+IR  - Leonard C
+FIR - Leshchiner, Ignaty
+IR  - Leshchiner I
+FIR - Levy, Rochelle
+IR  - Levy R
+FIR - Li, Jerry
+IR  - Li J
+FIR - Lian, Christine G
+IR  - Lian CG
+FIR - Lim, Kian-Huat
+IR  - Lim KH
+FIR - Lin, Jia-Ren
+IR  - Lin JR
+FIR - Lin, Yiyun
+IR  - Lin Y
+FIR - Liu, Qi
+IR  - Liu Q
+FIR - Liu, Ruiyang
+IR  - Liu R
+FIR - Lively, Tracy
+IR  - Lively T
+FIR - Longabaugh, William J R
+IR  - Longabaugh WJR
+FIR - Longacre, Teri
+IR  - Longacre T
+FIR - Ma, Cynthia X
+IR  - Ma CX
+FIR - Macedonia, Mary Catherine
+IR  - Macedonia MC
+FIR - Madison, Tyler
+IR  - Madison T
+FIR - Maher, Christopher A
+IR  - Maher CA
+FIR - Maitra, Anirban
+IR  - Maitra A
+FIR - Makinen, Netta
+IR  - Makinen N
+FIR - Makowski, Danika
+IR  - Makowski D
+FIR - Maley, Carlo
+IR  - Maley C
+FIR - Maliga, Zoltan
+IR  - Maliga Z
+FIR - Mallo, Diego
+IR  - Mallo D
+FIR - Maris, John
+IR  - Maris J
+FIR - Markham, Nick
+IR  - Markham N
+FIR - Marks, Jeffrey
+IR  - Marks J
+FIR - Martinez, Daniel
+IR  - Martinez D
+FIR - Mashl, Robert J
+IR  - Mashl RJ
+FIR - Masilionais, Ignas
+IR  - Masilionais I
+FIR - Mason, Jennifer
+IR  - Mason J
+FIR - Massagué, Joan
+IR  - Massagué J
+FIR - Massion, Pierre
+IR  - Massion P
+FIR - Mattar, Marissa
+IR  - Mattar M
+FIR - Mazurchuk, Richard
+IR  - Mazurchuk R
+FIR - Mazutis, Linas
+IR  - Mazutis L
+FIR - Mazzilli, Sarah A
+IR  - Mazzilli SA
+FIR - McKinley, Eliot T
+IR  - McKinley ET
+FIR - McMichael, Joshua F
+IR  - McMichael JF
+FIR - Merrick, Daniel
+IR  - Merrick D
+FIR - Meyerson, Matthew
+IR  - Meyerson M
+FIR - Miessner, Julia R
+IR  - Miessner JR
+FIR - Mills, Gordon B
+IR  - Mills GB
+FIR - Mills, Meredith
+IR  - Mills M
+FIR - Mondal, Suman B
+IR  - Mondal SB
+FIR - Mori, Motomi
+IR  - Mori M
+FIR - Mori, Yuriko
+IR  - Mori Y
+FIR - Moses, Elizabeth
+IR  - Moses E
+FIR - Mosse, Yael
+IR  - Mosse Y
+FIR - Muhlich, Jeremy L
+IR  - Muhlich JL
+FIR - Murphy, George F
+IR  - Murphy GF
+FIR - Navin, Nicholas E
+IR  - Navin NE
+FIR - Nawy, Tal
+IR  - Nawy T
+FIR - Nederlof, Michel
+IR  - Nederlof M
+FIR - Ness, Reid
+IR  - Ness R
+FIR - Nevins, Stephanie
+IR  - Nevins S
+FIR - Nikolov, Milen
+IR  - Nikolov M
+FIR - Nirmal, Ajit Johnson
+IR  - Nirmal AJ
+FIR - Nolan, Garry
+IR  - Nolan G
+FIR - Novikov, Edward
+IR  - Novikov E
+FIR - Oberdoerffer, Philipp
+IR  - Oberdoerffer P
+FIR - O'Connell, Brendan
+IR  - O'Connell B
+FIR - Offin, Michael
+IR  - Offin M
+FIR - Oh, Stephen T
+IR  - Oh ST
+FIR - Olson, Anastasiya
+IR  - Olson A
+FIR - Ooms, Alex
+IR  - Ooms A
+FIR - Ossandon, Miguel
+IR  - Ossandon M
+FIR - Owzar, Kouros
+IR  - Owzar K
+FIR - Parmar, Swapnil
+IR  - Parmar S
+FIR - Patel, Tasleema
+IR  - Patel T
+FIR - Patti, Gary J
+IR  - Patti GJ
+FIR - Pe'er, Dana
+IR  - Pe'er D
+FIR - Pe'er, Itsik
+IR  - Pe'er I
+FIR - Peng, Tao
+IR  - Peng T
+FIR - Persson, Daniel
+IR  - Persson D
+FIR - Petty, Marvin
+IR  - Petty M
+FIR - Pfister, Hanspeter
+IR  - Pfister H
+FIR - Polyak, Kornelia
+IR  - Polyak K
+FIR - Pourfarhangi, Kamyar
+IR  - Pourfarhangi K
+FIR - Puram, Sidharth V
+IR  - Puram SV
+FIR - Qiu, Qi
+IR  - Qiu Q
+FIR - Quintanal-Villalonga, Álvaro
+IR  - Quintanal-Villalonga Á
+FIR - Raj, Arjun
+IR  - Raj A
+FIR - Ramirez-Solano, Marisol
+IR  - Ramirez-Solano M
+FIR - Rashid, Rumana
+IR  - Rashid R
+FIR - Reeb, Ashley N
+IR  - Reeb AN
+FIR - Regev, Aviv
+IR  - Regev A
+FIR - Reid, Mary
+IR  - Reid M
+FIR - Resnick, Adam
+IR  - Resnick A
+FIR - Reynolds, Sheila M
+IR  - Reynolds SM
+FIR - Riesterer, Jessica L
+IR  - Riesterer JL
+FIR - Rodig, Scott
+IR  - Rodig S
+FIR - Roland, Joseph T
+IR  - Roland JT
+FIR - Rosenfield, Sonia
+IR  - Rosenfield S
+FIR - Rotem, Asaf
+IR  - Rotem A
+FIR - Roy, Sudipta
+IR  - Roy S
+FIR - Rozenblatt-Rosen, Orit
+IR  - Rozenblatt-Rosen O
+FIR - Rudin, Charles M
+IR  - Rudin CM
+FIR - Ryser, Marc D
+IR  - Ryser MD
+FIR - Santagata, Sandro
+IR  - Santagata S
+FIR - Santi-Vicini, Maria
+IR  - Santi-Vicini M
+FIR - Sato, Kazuhito
+IR  - Sato K
+FIR - Schapiro, Denis
+IR  - Schapiro D
+FIR - Schrag, Deborah
+IR  - Schrag D
+FIR - Schultz, Nikolaus
+IR  - Schultz N
+FIR - Sears, Cynthia L
+IR  - Sears CL
+FIR - Sears, Rosalie C
+IR  - Sears RC
+FIR - Sen, Subrata
+IR  - Sen S
+FIR - Sen, Triparna
+IR  - Sen T
+FIR - Shalek, Alex
+IR  - Shalek A
+FIR - Sheng, Jeff
+IR  - Sheng J
+FIR - Sheng, Quanhu
+IR  - Sheng Q
+FIR - Shoghi, Kooresh I
+IR  - Shoghi KI
+FIR - Shrubsole, Martha J
+IR  - Shrubsole MJ
+FIR - Shyr, Yu
+IR  - Shyr Y
+FIR - Sibley, Alexander B
+IR  - Sibley AB
+FIR - Siex, Kiara
+IR  - Siex K
+FIR - Simmons, Alan J
+IR  - Simmons AJ
+FIR - Singer, Dinah S
+IR  - Singer DS
+FIR - Sivagnanam, Shamilene
+IR  - Sivagnanam S
+FIR - Slyper, Michal
+IR  - Slyper M
+FIR - Snyder, Michael P
+IR  - Snyder MP
+FIR - Sokolov, Artem
+IR  - Sokolov A
+FIR - Song, Sheng-Kwei
+IR  - Song SK
+FIR - Sorger, Peter K
+IR  - Sorger PK
+FIR - Southard-Smith, Austin
+IR  - Southard-Smith A
+FIR - Spira, Avrum
+IR  - Spira A
+FIR - Srivastava, Sudhir
+IR  - Srivastava S
+FIR - Stein, Janet
+IR  - Stein J
+FIR - Storm, Phillip
+IR  - Storm P
+FIR - Stover, Elizabeth
+IR  - Stover E
+FIR - Strand, Siri H
+IR  - Strand SH
+FIR - Su, Timothy
+IR  - Su T
+FIR - Sudar, Damir
+IR  - Sudar D
+FIR - Sullivan, Ryan
+IR  - Sullivan R
+FIR - Surrey, Lea
+IR  - Surrey L
+FIR - Suvà, Mario
+IR  - Suvà M
+FIR - Tan, Kai
+IR  - Tan K
+FIR - Terekhanova, Nadezhda V
+IR  - Terekhanova NV
+FIR - Ternes, Luke
+IR  - Ternes L
+FIR - Thammavong, Lisa
+IR  - Thammavong L
+FIR - Thibault, Guillaume
+IR  - Thibault G
+FIR - Thomas, George V
+IR  - Thomas GV
+FIR - Thorsson, Vésteinn
+IR  - Thorsson V
+FIR - Todres, Ellen
+IR  - Todres E
+FIR - Tran, Linh
+IR  - Tran L
+FIR - Tyler, Madison
+IR  - Tyler M
+FIR - Uzun, Yasin
+IR  - Uzun Y
+FIR - Vachani, Anil
+IR  - Vachani A
+FIR - Van Allen, Eliezer
+IR  - Van Allen E
+FIR - Vandekar, Simon
+IR  - Vandekar S
+FIR - Veis, Deborah J
+IR  - Veis DJ
+FIR - Vigneau, Sébastien
+IR  - Vigneau S
+FIR - Vossough, Arastoo
+IR  - Vossough A
+FIR - Waanders, Angela
+IR  - Waanders A
+FIR - Wagle, Nikhil
+IR  - Wagle N
+FIR - Wang, Liang-Bo
+IR  - Wang LB
+FIR - Wendl, Michael C
+IR  - Wendl MC
+FIR - West, Robert
+IR  - West R
+FIR - Williams, Elizabeth H
+IR  - Williams EH
+FIR - Wu, Chi-Yun
+IR  - Wu CY
+FIR - Wu, Hao
+IR  - Wu H
+FIR - Wu, Hung-Yi
+IR  - Wu HY
+FIR - Wyczalkowski, Matthew A
+IR  - Wyczalkowski MA
+FIR - Xie, Yubin
+IR  - Xie Y
+FIR - Yang, Xiaolu
+IR  - Yang X
+FIR - Yapp, Clarence
+IR  - Yapp C
+FIR - Yu, Wenbao
+IR  - Yu W
+FIR - Yuan, Yinyin
+IR  - Yuan Y
+FIR - Zhang, Dadong
+IR  - Zhang D
+FIR - Zhang, Kun
+IR  - Zhang K
+FIR - Zhang, Mianlei
+IR  - Zhang M
+FIR - Zhang, Nancy
+IR  - Zhang N
+FIR - Zhang, Yantian
+IR  - Zhang Y
+FIR - Zhao, Yanyan
+IR  - Zhao Y
+FIR - Zhou, Daniel Cui
+IR  - Zhou DC
+FIR - Zhou, Zilu
+IR  - Zhou Z
+FIR - Zhu, Houxiang
+IR  - Zhu H
+FIR - Zhu, Qin
+IR  - Zhu Q
+FIR - Zhu, Xiangzhu
+IR  - Zhu X
+FIR - Zhu, Yuankun
+IR  - Zhu Y
+FIR - Zhuang, Xiaowei
+IR  - Zhuang X
+EDAT- 2020/04/18 06:00
+MHDA- 2020/11/24 06:00
+CRDT- 2020/04/18 06:00
+PHST- 2019/12/18 00:00 [received]
+PHST- 2020/03/24 00:00 [revised]
+PHST- 2020/03/24 00:00 [accepted]
+PHST- 2020/04/18 06:00 [entrez]
+PHST- 2020/04/18 06:00 [pubmed]
+PHST- 2020/11/24 06:00 [medline]
+AID - S0092-8674(20)30346-9 [pii]
+AID - 10.1016/j.cell.2020.03.053 [doi]
+PST - ppublish
+SO  - Cell. 2020 Apr 16;181(2):236-249. doi: 10.1016/j.cell.2020.03.053.
+
+PMID- 25504833
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160104
+LR  - 20150409
+IS  - 1615-9861 (Electronic)
+IS  - 1615-9853 (Linking)
+VI  - 15
+IP  - 8
+DP  - 2015 Apr
+TI  - Viewing the proteome: how to visualize proteomics data?
+PG  - 1341-55
+LID - 10.1002/pmic.201400412 [doi]
+AB  - Proteomics has become one of the main approaches for analyzing and understanding 
+      biological systems. Yet similar to other high-throughput analysis methods, the 
+      presentation of the large amounts of obtained data in easily interpretable ways 
+      remains challenging. In this review, we present an overview of the different ways in 
+      which proteomics software supports the visualization and interpretation of 
+      proteomics data. The unique challenges and current solutions for visualizing the 
+      different aspects of proteomics data, from acquired spectra via protein 
+      identification and quantification to pathway analysis, are discussed, and examples 
+      of the most useful visualization approaches are highlighted. Finally, we offer our 
+      ideas about future directions for proteomics data visualization.
+CI  - © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Oveland, Eystein
+AU  - Oveland E
+AD  - Proteomics Unit, Department of Biomedicine, University of Bergen, Bergen, Norway; KG 
+      Jebsen Centre for Multiple Sclerosis Research, Department of Clinical Medicine, 
+      University of Bergen, Bergen, Norway; Department of Clinical Medicine, University of 
+      Bergen, Bergen, Norway.
+FAU - Muth, Thilo
+AU  - Muth T
+FAU - Rapp, Erdmann
+AU  - Rapp E
+FAU - Martens, Lennart
+AU  - Martens L
+FAU - Berven, Frode S
+AU  - Berven FS
+FAU - Barsnes, Harald
+AU  - Barsnes H
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20150121
+PL  - Germany
+TA  - Proteomics
+JT  - Proteomics
+JID - 101092707
+RN  - 0 (Proteome)
+SB  - IM
+MH  - Computer Graphics
+MH  - Data Interpretation, Statistical
+MH  - Databases, Protein
+MH  - Datasets as Topic
+MH  - Humans
+MH  - Molecular Sequence Annotation
+MH  - Organ Specificity
+MH  - Protein Interaction Maps
+MH  - Proteome/chemistry/metabolism
+MH  - Proteomics/*methods
+MH  - Software
+OTO - NOTNLM
+OT  - Bioinformatics
+OT  - Graphs
+OT  - Proteome databases
+OT  - Raw data
+OT  - Visualization
+EDAT- 2014/12/17 06:00
+MHDA- 2016/01/05 06:00
+CRDT- 2014/12/16 06:00
+PHST- 2014/08/25 00:00 [received]
+PHST- 2014/10/23 00:00 [revised]
+PHST- 2014/12/05 00:00 [accepted]
+PHST- 2014/12/16 06:00 [entrez]
+PHST- 2014/12/17 06:00 [pubmed]
+PHST- 2016/01/05 06:00 [medline]
+AID - 10.1002/pmic.201400412 [doi]
+PST - ppublish
+SO  - Proteomics. 2015 Apr;15(8):1341-55. doi: 10.1002/pmic.201400412. Epub 2015 Jan 21.
+
+PMID- 31691815
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200519
+LR  - 20210106
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 48
+IP  - D1
+DP  - 2020 Jan 8
+TI  - The reactome pathway knowledgebase.
+PG  - D498-D503
+LID - 10.1093/nar/gkz1031 [doi]
+AB  - The Reactome Knowledgebase (https://reactome.org) provides molecular details of 
+      signal transduction, transport, DNA replication, metabolism and other cellular 
+      processes as an ordered network of molecular transformations in a single consistent 
+      data model, an extended version of a classic metabolic map. Reactome functions both 
+      as an archive of biological processes and as a tool for discovering functional 
+      relationships in data such as gene expression profiles or somatic mutation catalogs 
+      from tumor cells. To extend our ability to annotate human disease processes, we have 
+      implemented a new drug class and have used it initially to annotate drugs relevant 
+      to cardiovascular disease. Our annotation model depends on external domain experts 
+      to identify new areas for annotation and to review new content. New web pages 
+      facilitate recruitment of community experts and allow those who have contributed to 
+      Reactome to identify their contributions and link them to their ORCID records. To 
+      improve visualization of our content, we have implemented a new tool to 
+      automatically lay out the components of individual reactions with multiple options 
+      for downloading the reaction diagrams and associated data, and a new display of our 
+      event hierarchy that will facilitate visual interpretation of pathway analysis 
+      results.
+CI  - © The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic 
+      Acids Research.
+FAU - Jassal, Bijay
+AU  - Jassal B
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Matthews, Lisa
+AU  - Matthews L
+AD  - NYU School of Medicine, New York, NY 10016, USA.
+FAU - Viteri, Guilherme
+AU  - Viteri G
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+FAU - Gong, Chuqiao
+AU  - Gong C
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+FAU - Lorente, Pascual
+AU  - Lorente P
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+FAU - Fabregat, Antonio
+AU  - Fabregat A
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+AD  - Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+FAU - Sidiropoulos, Konstantinos
+AU  - Sidiropoulos K
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+FAU - Cook, Justin
+AU  - Cook J
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Gillespie, Marc
+AU  - Gillespie M
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+AD  - College of Pharmacy and Health Sciences, St. John's University, Queens, NY 11439, 
+      USA.
+FAU - Haw, Robin
+AU  - Haw R
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Loney, Fred
+AU  - Loney F
+AD  - Oregon Health and Science University, Portland, OR 97239, USA.
+FAU - May, Bruce
+AU  - May B
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Milacic, Marija
+AU  - Milacic M
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Rothfels, Karen
+AU  - Rothfels K
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Sevilla, Cristoffer
+AU  - Sevilla C
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+FAU - Shamovsky, Veronica
+AU  - Shamovsky V
+AD  - NYU School of Medicine, New York, NY 10016, USA.
+FAU - Shorser, Solomon
+AU  - Shorser S
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Varusai, Thawfeek
+AU  - Varusai T
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+FAU - Weiser, Joel
+AU  - Weiser J
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+FAU - Wu, Guanming
+AU  - Wu G
+AD  - Oregon Health and Science University, Portland, OR 97239, USA.
+FAU - Stein, Lincoln
+AU  - Stein L
+AD  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada.
+AD  - Department of Molecular Genetics, University of Toronto, Toronto, ON, M5S 1A1, 
+      Canada.
+FAU - Hermjakob, Henning
+AU  - Hermjakob H
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), 
+      Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+AD  - National Center for Protein Sciences, Beijing, China.
+FAU - D'Eustachio, Peter
+AU  - D'Eustachio P
+AD  - NYU School of Medicine, New York, NY 10016, USA.
+LA  - eng
+GR  - P41 HG003751/HG/NHGRI NIH HHS/United States
+GR  - U01 CA239069/CA/NCI NIH HHS/United States
+GR  - U41 HG003751/HG/NHGRI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+SB  - IM
+MH  - *Databases, Chemical
+MH  - *Databases, Pharmaceutical
+MH  - Genome, Human
+MH  - Humans
+MH  - *Knowledge Bases
+MH  - Metabolic Networks and Pathways
+MH  - Protein Interaction Maps
+MH  - Signal Transduction
+MH  - *Software
+PMC - PMC7145712
+EDAT- 2019/11/07 06:00
+MHDA- 2020/05/20 06:00
+CRDT- 2019/11/07 06:00
+PHST- 2019/10/21 00:00 [accepted]
+PHST- 2019/10/18 00:00 [revised]
+PHST- 2019/09/27 00:00 [received]
+PHST- 2019/11/07 06:00 [pubmed]
+PHST- 2020/05/20 06:00 [medline]
+PHST- 2019/11/07 06:00 [entrez]
+AID - 5613674 [pii]
+AID - gkz1031 [pii]
+AID - 10.1093/nar/gkz1031 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2020 Jan 8;48(D1):D498-D503. doi: 10.1093/nar/gkz1031.
+
+PMID- 31756036
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200610
+LR  - 20200610
+IS  - 1934-340X (Electronic)
+IS  - 1934-3396 (Linking)
+VI  - 68
+IP  - 1
+DP  - 2019 Dec
+TI  - Using MetaboAnalyst 4.0 for Comprehensive and Integrative Metabolomics Data 
+      Analysis.
+PG  - e86
+LID - 10.1002/cpbi.86 [doi]
+AB  - MetaboAnalyst (https://www.metaboanalyst.ca) is an easy-to-use web-based tool suite 
+      for comprehensive metabolomic data analysis, interpretation, and integration with 
+      other omics data. Since its first release in 2009, MetaboAnalyst has evolved 
+      significantly to meet the ever-expanding bioinformatics demands from the rapidly 
+      growing metabolomics community. In addition to providing a variety of data 
+      processing and normalization procedures, MetaboAnalyst supports a wide array of 
+      functions for statistical, functional, as well as data visualization tasks. Some of 
+      the most widely used approaches include PCA (principal component analysis), PLS-DA 
+      (partial least squares discriminant analysis), clustering analysis and 
+      visualization, MSEA (metabolite set enrichment analysis), MetPA (metabolic pathway 
+      analysis), biomarker selection via ROC (receiver operating characteristic) curve 
+      analysis, as well as time series and power analysis. The current version of 
+      MetaboAnalyst (4.0) features a complete overhaul of the user interface and 
+      significantly expanded underlying knowledge bases (compound database, pathway 
+      libraries, and metabolite sets). Three new modules have been added to support 
+      pathway activity prediction directly from mass peaks, biomarker meta-analysis, and 
+      network-based multi-omics data integration. To enable more transparent and 
+      reproducible analysis of metabolomic data, we have released a companion R package 
+      (MetaboAnalystR) to complement the web-based application. This article provides an 
+      overview of the main functional modules and the general workflow of MetaboAnalyst 
+      4.0, followed by 12 detailed protocols: © 2019 by John Wiley & Sons, Inc. Basic 
+      Protocol 1: Data uploading, processing, and normalization Basic Protocol 2: 
+      Identification of significant variables Basic Protocol 3: Multivariate exploratory 
+      data analysis Basic Protocol 4: Functional interpretation of metabolomic data Basic 
+      Protocol 5: Biomarker analysis based on receiver operating characteristic (ROC) 
+      curves Basic Protocol 6: Time-series and two-factor data analysis Basic Protocol 7: 
+      Sample size estimation and power analysis Basic Protocol 8: Joint pathway analysis 
+      Basic Protocol 9: MS peaks to pathway activities Basic Protocol 10: Biomarker 
+      meta-analysis Basic Protocol 11: Knowledge-based network exploration of multi-omics 
+      data Basic Protocol 12: MetaboAnalystR introduction.
+CI  - © 2019 John Wiley & Sons, Inc.
+FAU - Chong, Jasmine
+AU  - Chong J
+AD  - Institute of Parasitology, McGill University, Sainte-Anne-de-Bellevue, Quebec, 
+      Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - Department of Computing Science, University of Alberta, Edmonton, Alberta, Canada.
+AD  - Department of Biological Sciences, University of Alberta, Edmonton, Alberta, Canada.
+FAU - Xia, Jianguo
+AU  - Xia J
+AD  - Institute of Parasitology, McGill University, Sainte-Anne-de-Bellevue, Quebec, 
+      Canada.
+AD  - Department of Animal Sciences, McGill University, Sainte-Anne-de-Bellevue, Quebec, 
+      Canada.
+AD  - Department of Microbiology and Immunology, McGill University, Montreal, Quebec, 
+      Canada.
+LA  - eng
+GR  - CIHR/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Curr Protoc Bioinformatics
+JT  - Current protocols in bioinformatics
+JID - 101157830
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Biomarkers
+MH  - Computational Biology/*methods
+MH  - Databases, Factual
+MH  - Humans
+MH  - Internet
+MH  - Metabolome
+MH  - Metabolomics/*methods
+MH  - Principal Component Analysis
+MH  - *Software
+MH  - User-Computer Interface
+OTO - NOTNLM
+OT  - *MS peaks to pathways
+OT  - *ROC curve
+OT  - *biomarker analysis
+OT  - *chemometrics
+OT  - *joint pathway analysis
+OT  - *meta-analysis
+OT  - *metabolic pathway analysis
+OT  - *metabolite set enrichment analysis
+OT  - *metabolomics
+OT  - *multi-omics integration
+OT  - *network analysis
+OT  - *power analysis
+OT  - *reproducible data analysis
+OT  - *web application
+EDAT- 2019/11/23 06:00
+MHDA- 2020/06/11 06:00
+CRDT- 2019/11/23 06:00
+PHST- 2019/11/23 06:00 [entrez]
+PHST- 2019/11/23 06:00 [pubmed]
+PHST- 2020/06/11 06:00 [medline]
+AID - 10.1002/cpbi.86 [doi]
+PST - ppublish
+SO  - Curr Protoc Bioinformatics. 2019 Dec;68(1):e86. doi: 10.1002/cpbi.86.
+
+PMID- 31792435
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200505
+LR  - 20210731
+IS  - 1548-7105 (Electronic)
+IS  - 1548-7091 (Print)
+IS  - 1548-7091 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2020 Feb
+TI  - Orchestrating single-cell analysis with Bioconductor.
+PG  - 137-145
+LID - 10.1038/s41592-019-0654-x [doi]
+AB  - Recent technological advancements have enabled the profiling of a large number of 
+      genome-wide features in individual cells. However, single-cell data present unique 
+      challenges that require the development of specialized methods and software 
+      infrastructure to successfully derive biological insights. The Bioconductor project 
+      has rapidly grown to meet these demands, hosting community-developed open-source 
+      software distributed as R packages. Featuring state-of-the-art computational 
+      methods, standardized data infrastructure and interactive data visualization tools, 
+      we present an overview and online book (https://osca.bioconductor.org) of 
+      single-cell methods for prospective users.
+FAU - Amezquita, Robert A
+AU  - Amezquita RA
+AUID- ORCID: 0000-0001-6868-7193
+AD  - Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+FAU - Lun, Aaron T L
+AU  - Lun ATL
+AD  - Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge, UK.
+AD  - Bioinformatics and Computational Biology, Genentech Inc., San Francisco, CA, USA.
+FAU - Becht, Etienne
+AU  - Becht E
+AD  - Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+FAU - Carey, Vince J
+AU  - Carey VJ
+AD  - Channing Division of Network Medicine, Brigham And Women's Hospital, Boston, MA, 
+      USA.
+FAU - Carpp, Lindsay N
+AU  - Carpp LN
+AUID- ORCID: 0000-0003-0333-5925
+AD  - Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+FAU - Geistlinger, Ludwig
+AU  - Geistlinger L
+AD  - Graduate School of Public Health and Health Policy, City University of New York, New 
+      York, NY, USA.
+AD  - Institute for Implementation Science in Population Health, City University of New 
+      York, New York, NY, USA.
+FAU - Marini, Federico
+AU  - Marini F
+AUID- ORCID: 0000-0003-3252-7758
+AD  - Center for Thrombosis and Hemostasis, Mainz, Germany.
+AD  - Institute of Medical Biostatistics, Epidemiology and Informatics, Mainz, Germany.
+FAU - Rue-Albrecht, Kevin
+AU  - Rue-Albrecht K
+AUID- ORCID: 0000-0003-3899-3872
+AD  - Kennedy Institute of Rheumatology, University of Oxford, Oxford, UK.
+FAU - Risso, Davide
+AU  - Risso D
+AD  - Department of Statistical Sciences, University of Padua, Padua, Italy.
+AD  - Division of Biostatistics and Epidemiology, Department of Healthcare Policy and 
+      Research, Weill Cornell Medicine, New York, NY, USA.
+FAU - Soneson, Charlotte
+AU  - Soneson C
+AUID- ORCID: 0000-0003-3833-2169
+AD  - Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Basel, Switzerland.
+FAU - Waldron, Levi
+AU  - Waldron L
+AUID- ORCID: 0000-0003-2725-0694
+AD  - Graduate School of Public Health and Health Policy, City University of New York, New 
+      York, NY, USA.
+AD  - Institute for Implementation Science in Population Health, City University of New 
+      York, New York, NY, USA.
+FAU - Pagès, Hervé
+AU  - Pagès H
+AD  - Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+FAU - Smith, Mike L
+AU  - Smith ML
+AUID- ORCID: 0000-0002-7800-3848
+AD  - European Molecular Biology Laboratory, Genome Biology Unit, Heidelberg, Germany.
+FAU - Huber, Wolfgang
+AU  - Huber W
+AD  - European Molecular Biology Laboratory, Genome Biology Unit, Heidelberg, Germany.
+FAU - Morgan, Martin
+AU  - Morgan M
+AD  - Biostatistics and Bioinformatics, Roswell Park Comprehensive Cancer Center, Buffalo, 
+      NY, USA.
+FAU - Gottardo, Raphael
+AU  - Gottardo R
+AD  - Fred Hutchinson Cancer Research Center, Seattle, WA, USA. rgottard@fredhutch.org.
+FAU - Hicks, Stephanie C
+AU  - Hicks SC
+AUID- ORCID: 0000-0002-7858-0231
+AD  - Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 
+      Baltimore, MD, USA. shicks19@jhu.edu.
+LA  - eng
+GR  - WT/108437/Z/15/Wellcome Trust (Wellcome)/International
+GR  - U24 CA180996/CA/NCI NIH HHS/United States
+GR  - R00 HG009007/HG/NHGRI NIH HHS/United States
+GR  - U24CA232979/U.S. Department of Health &amp; Human Services ǀ NIH ǀ National Cancer 
+      Institute (NCI)/International
+GR  - U41 HG004059/HG/NHGRI NIH HHS/United States
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - U01 CA214846/CA/NCI NIH HHS/United States
+GR  - U01CA214846/U.S. Department of Health &amp; Human Services ǀ NIH ǀ National Cancer 
+      Institute (NCI)/International
+GR  - U24 CA232979/CA/NCI NIH HHS/United States
+GR  - U24CA180996/U.S. Department of Health &amp; Human Services ǀ NIH ǀ National Cancer 
+      Institute (NCI)/International
+GR  - U24CA18099/U.S. Department of Health &amp; Human Services ǀ NIH ǀ National Cancer 
+      Institute (NCI)/International
+GR  - A17179/Cancer Research UK (CRUK)/International
+GR  - U41HG004059/U.S. Department of Health &amp; Human Services ǀ NIH ǀ National Human 
+      Genome Research Institute (NHGRI)/International
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20191202
+TA  - Nat Methods
+JT  - Nature methods
+JID - 101215604
+SB  - IM
+EIN - Nat Methods. 2019 Dec 11;:. PMID: 31827272
+MH  - Gene Expression Profiling
+MH  - Genome
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Single-Cell Analysis/*methods
+MH  - Software
+PMC - PMC7358058
+MID - NIHMS1600055
+COIS- Competing Financial Interests RG declares ownership in CellSpace Biosciences.
+EDAT- 2019/12/04 06:00
+MHDA- 2020/05/06 06:00
+CRDT- 2019/12/04 06:00
+PHST- 2019/03/26 00:00 [received]
+PHST- 2019/10/14 00:00 [accepted]
+PHST- 2019/09/13 00:00 [revised]
+PHST- 2019/12/04 06:00 [pubmed]
+PHST- 2020/05/06 06:00 [medline]
+PHST- 2019/12/04 06:00 [entrez]
+AID - 10.1038/s41592-019-0654-x [pii]
+AID - 10.1038/s41592-019-0654-x [doi]
+PST - ppublish
+SO  - Nat Methods. 2020 Feb;17(2):137-145. doi: 10.1038/s41592-019-0654-x. Epub 2019 Dec 
+      2.
+
+PMID- 27603023
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171106
+LR  - 20201127
+IS  - 1934-340X (Electronic)
+IS  - 1934-3396 (Linking)
+VI  - 55
+DP  - 2016 Sep 7
+TI  - Using MetaboAnalyst 3.0 for Comprehensive Metabolomics Data Analysis.
+PG  - 14.10.1-14.10.91
+LID - 10.1002/cpbi.11 [doi]
+AB  - MetaboAnalyst (http://www.metaboanalyst.ca) is a comprehensive Web application for 
+      metabolomic data analysis and interpretation. MetaboAnalyst handles most of the 
+      common metabolomic data types from most kinds of metabolomics platforms (MS and NMR) 
+      for most kinds of metabolomics experiments (targeted, untargeted, quantitative). In 
+      addition to providing a variety of data processing and normalization procedures, 
+      MetaboAnalyst also supports a number of data analysis and data visualization tasks 
+      using a range of univariate, multivariate methods such as PCA (principal component 
+      analysis), PLS-DA (partial least squares discriminant analysis), heatmap clustering 
+      and machine learning methods. MetaboAnalyst also offers a variety of tools for 
+      metabolomic data interpretation including MSEA (metabolite set enrichment analysis), 
+      MetPA (metabolite pathway analysis), and biomarker selection via ROC (receiver 
+      operating characteristic) curve analysis, as well as time series and power analysis. 
+      This unit provides an overview of the main functional modules and the general 
+      workflow of the latest version of MetaboAnalyst (MetaboAnalyst 3.0), followed by 
+      eight detailed protocols. © 2016 by John Wiley & Sons, Inc.
+CI  - Copyright © 2016 John Wiley & Sons, Inc.
+FAU - Xia, Jianguo
+AU  - Xia J
+AD  - Institute of Parasitology, McGill University, Sainte Anne de Bellevue, Quebec, 
+      Canada.
+AD  - Department of Animal Science, McGill University, Sainte Anne de Bellevue, Quebec, 
+      Canada.
+AD  - Department of Microbiology and Immunology, McGill University, Montreal, Quebec, 
+      Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - Department of Computing Science, University of Alberta, Edmonton, Alberta, Canada.
+AD  - Department of Biological Sciences, University of Alberta, Edmonton, Alberta, Canada.
+AD  - National Research Council, National Institute for Nanotechnology (NINT), Edmonton, 
+      Alberta, Canada.
+LA  - eng
+GR  - CIHR/Canada
+PT  - Journal Article
+PT  - Review
+DEP - 20160907
+PL  - United States
+TA  - Curr Protoc Bioinformatics
+JT  - Current protocols in bioinformatics
+JID - 101157830
+SB  - IM
+MH  - Cluster Analysis
+MH  - Internet
+MH  - Metabolomics/*methods
+MH  - *Software
+OTO - NOTNLM
+OT  - *ROC curve
+OT  - *Web application
+OT  - *batch effect correction
+OT  - *biomarker analysis
+OT  - *chemometrics
+OT  - *integrative pathway analysis
+OT  - *metabolic pathway analysis
+OT  - *metabolite set enrichment analysis
+OT  - *metabolomics
+OT  - *power analysis
+OT  - *sample size estimation
+EDAT- 2016/09/08 06:00
+MHDA- 2017/11/07 06:00
+CRDT- 2016/09/08 06:00
+PHST- 2016/09/08 06:00 [entrez]
+PHST- 2016/09/08 06:00 [pubmed]
+PHST- 2017/11/07 06:00 [medline]
+AID - 10.1002/cpbi.11 [doi]
+PST - epublish
+SO  - Curr Protoc Bioinformatics. 2016 Sep 7;55:14.10.1-14.10.91. doi: 10.1002/cpbi.11.
+
+PMID- 30601139
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191105
+LR  - 20200309
+IS  - 1558-8238 (Electronic)
+IS  - 0021-9738 (Print)
+IS  - 0021-9738 (Linking)
+VI  - 129
+IP  - 1
+DP  - 2019 Jan 2
+TI  - Molecular imaging of fibrosis: recent advances and future directions.
+PG  - 24-33
+LID - 122132 [pii]
+LID - 10.1172/JCI122132 [doi]
+AB  - Fibrosis, the progressive accumulation of connective tissue that occurs in response 
+      to injury, causes irreparable organ damage and may result in organ failure. The few 
+      available antifibrotic treatments modify the rate of fibrosis progression, but there 
+      are no available treatments to reverse established fibrosis. Thus, more effective 
+      therapies are urgently needed. Molecular imaging is a promising biomedical 
+      methodology that enables noninvasive visualization of cellular and subcellular 
+      processes. It provides a unique means to monitor and quantify dysregulated molecular 
+      fibrotic pathways in a noninvasive manner. Molecular imaging could be used for early 
+      detection, disease staging, and prognostication, as well as for assessing disease 
+      activity and treatment response. As fibrotic diseases are often molecularly 
+      heterogeneous, molecular imaging of a specific pathway could be used for patient 
+      stratification and cohort enrichment with the goal of improving clinical trial 
+      design and feasibility and increasing the ability to detect a definitive outcome for 
+      new therapies. Here we review currently available molecular imaging probes for 
+      detecting fibrosis and fibrogenesis, the active formation of new fibrous tissue, and 
+      their application to models of fibrosis across organ systems and fibrotic processes. 
+      We provide our opinion as to the potential roles of molecular imaging in human 
+      fibrotic diseases.
+FAU - Montesi, Sydney B
+AU  - Montesi SB
+AD  - Division of Pulmonary and Critical Care Medicine and.
+FAU - Désogère, Pauline
+AU  - Désogère P
+AD  - Department of Radiology, Massachusetts General Hospital and Harvard Medical School, 
+      Boston, Massachusetts, USA.
+AD  - Athinoula A. Martinos Center for Biomedical Imaging and.
+AD  - Institute for Innovation in Imaging, Massachusetts General Hospital, Boston, 
+      Massachusetts, USA.
+FAU - Fuchs, Bryan C
+AU  - Fuchs BC
+AD  - Division of Surgical Oncology, Massachusetts General Hospital Cancer Center and 
+      Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Caravan, Peter
+AU  - Caravan P
+AD  - Department of Radiology, Massachusetts General Hospital and Harvard Medical School, 
+      Boston, Massachusetts, USA.
+AD  - Athinoula A. Martinos Center for Biomedical Imaging and.
+AD  - Institute for Innovation in Imaging, Massachusetts General Hospital, Boston, 
+      Massachusetts, USA.
+LA  - eng
+GR  - R01 DK104956/DK/NIDDK NIH HHS/United States
+GR  - R01 HL109448/HL/NHLBI NIH HHS/United States
+GR  - U01 DK104302/DK/NIDDK NIH HHS/United States
+GR  - R01 EB009062/EB/NIBIB NIH HHS/United States
+GR  - R01 HL131907/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20190102
+TA  - J Clin Invest
+JT  - The Journal of clinical investigation
+JID - 7802877
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Fibrosis/*diagnostic imaging/therapy
+MH  - Humans
+MH  - *Models, Biological
+MH  - Molecular Imaging/methods/*trends
+PMC - PMC6307954
+COIS- Conflict of interest: BCF receives research support from Collagen Medical, Enanta 
+      Pharmaceuticals, and Blade Therapeutics. He is a paid consultant for Gilead 
+      Sciences. PC has greater than 5% equity in Collagen Medical, Factor 1A LLC, and 
+      Reveal Pharmaceuticals. He receives research support from Pfizer, Pliant 
+      Therapeutics, and Indalo Therapeutics, and has been a consultant to Collagen 
+      Medical, Guerbet, and Bayer. He is a named inventor on issued or pending patents 
+      US7,927,581 (EP-2104R), US8,034,898 (EP-3533, CM-101), US2017360967 (68Ga-CBP8), and 
+      WO2015085005 (Gd-Hyd, Gd-OA). PD is a named inventor on patent application 
+      US2017360967 (68Ga-CBP8).
+EDAT- 2019/01/03 06:00
+MHDA- 2019/11/07 06:00
+CRDT- 2019/01/03 06:00
+PHST- 2019/01/03 06:00 [entrez]
+PHST- 2019/01/03 06:00 [pubmed]
+PHST- 2019/11/07 06:00 [medline]
+AID - 122132 [pii]
+AID - 10.1172/JCI122132 [doi]
+PST - ppublish
+SO  - J Clin Invest. 2019 Jan 2;129(1):24-33. doi: 10.1172/JCI122132. Epub 2019 Jan 2.
+
+PMID- 22443895
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120806
+LR  - 20131106
+IS  - 1744-7682 (Electronic)
+IS  - 1471-2598 (Linking)
+VI  - 12
+IP  - 5
+DP  - 2012 May
+TI  - Emerging trends in regenerative medicine: a scientometric analysis in CiteSpace.
+PG  - 593-608
+LID - 10.1517/14712598.2012.674507 [doi]
+AB  - INTRODUCTION: Regenerative medicine involves research in a number of fields and 
+      disciplines such as stem cell research, tissue engineering and biological therapy in 
+      general. As research in these areas advances rapidly, it is critical to keep abreast 
+      of emerging trends and critical turns of the development of the collective 
+      knowledge. AREAS COVERED: A progressively synthesized network is derived from 35,963 
+      original research and review articles that cite 3875 articles obtained from an 
+      initial topic search on regenerative medicine between 2000 and 2011. CiteSpace is 
+      used to facilitate the analysis of the intellectual structure and emerging trends. 
+      EXPERT OPINION: A major ongoing research trend is concerned with finding alternative 
+      reprogramming techniques as well as refining existing ones for induced pluripotent 
+      stem cells (iPSCs). A more recent emerging trend focuses on the structural and 
+      functional equivalence between iPSCs and human embryonic stem cells and potential 
+      clinical and therapeutic implications on regenerative medicine in a long run. The 
+      two trends overlap in terms of what they cite, but they are distinct and have 
+      different implications on future research. Visual analytics of the literature 
+      provides a valuable, timely, repeatable and flexible approach in addition to 
+      traditional systematic reviews so as to track the development of new emerging trends 
+      and identify critical evidence.
+FAU - Chen, Chaomei
+AU  - Chen C
+AD  - Drexel University, College of Information Science and Technology, 3141 Chestnut 
+      Street, Philadelphia, PA 19104-2875, USA chaomei.chen@drexel.edu
+FAU - Hu, Zhigang
+AU  - Hu Z
+FAU - Liu, Shengbo
+AU  - Liu S
+FAU - Tseng, Hung
+AU  - Tseng H
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20120325
+PL  - England
+TA  - Expert Opin Biol Ther
+JT  - Expert opinion on biological therapy
+JID - 101125414
+SB  - IM
+MH  - Embryonic Stem Cells/cytology
+MH  - Humans
+MH  - *Regenerative Medicine
+EDAT- 2012/03/27 06:00
+MHDA- 2012/08/07 06:00
+CRDT- 2012/03/27 06:00
+PHST- 2012/03/27 06:00 [entrez]
+PHST- 2012/03/27 06:00 [pubmed]
+PHST- 2012/08/07 06:00 [medline]
+AID - 10.1517/14712598.2012.674507 [doi]
+PST - ppublish
+SO  - Expert Opin Biol Ther. 2012 May;12(5):593-608. doi: 10.1517/14712598.2012.674507. 
+      Epub 2012 Mar 25.
+
+PMID- 31181226
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200625
+LR  - 20200625
+IS  - 1095-8584 (Electronic)
+IS  - 0022-2828 (Linking)
+VI  - 133
+DP  - 2019 Aug
+TI  - Lymphatic system identification, pathophysiology and therapy in the cardiovascular 
+      diseases.
+PG  - 99-111
+LID - S0022-2828(19)30122-1 [pii]
+LID - 10.1016/j.yjmcc.2019.06.002 [doi]
+AB  - The mammalian circulatory system comprises both the cardiovascular system and the 
+      lymphatic system. In contrast to the closed, high-pressure and circular blood 
+      vascular circulation, the lymphatic system forms an open, low-pressure and 
+      unidirectional transit network from the extracellular space to the venous system. It 
+      plays a key role in regulating tissue fluid homeostasis, absorption of 
+      gastrointestinal lipids, and immune surveillance throughout the body. Despite the 
+      critical physiological functions of the lymphatic system, a complete understanding 
+      of the lymphatic vessels lags far behind that of the blood vasculatures due to the 
+      challenge of their visualization. During the last 20 years, discoveries of 
+      underlying genes responsible for lymphatic vessel biology, combined with 
+      state-of-the-art lymphatic function imaging and quantification techniques, have 
+      established the importance of the lymphatic vasculature in the pathogenesis of 
+      cardiovascular diseases including lymphedema, obesity and metabolic diseases, 
+      dyslipidemia, hypertension, inflammation, atherosclerosis and myocardial infraction. 
+      In this review, we highlight the most recent advances in the field of lymphatic 
+      vessel biology, with an emphasis on the new identification techniques of lymphatic 
+      system, pathophysiological mechanisms of atherosclerosis and myocardial infarction, 
+      and new therapeutic perspectives of lymphangiogenesis.
+CI  - Copyright © 2019. Published by Elsevier Ltd.
+FAU - Hu, Dan
+AU  - Hu D
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China.
+FAU - Li, Long
+AU  - Li L
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China.
+FAU - Li, Sufang
+AU  - Li S
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China.
+FAU - Wu, Manyan
+AU  - Wu M
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China.
+FAU - Ge, Nana
+AU  - Ge N
+AD  - Department of Geriatrics, Beijing Renhe Hospital, Beijing, China.
+FAU - Cui, Yuxia
+AU  - Cui Y
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China.
+FAU - Lian, Zheng
+AU  - Lian Z
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China.
+FAU - Song, Junxian
+AU  - Song J
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China.
+FAU - Chen, Hong
+AU  - Chen H
+AD  - Department of Cardiology, Beijing Key Laboratory of Early Prediction and 
+      Intervention of Acute Myocardial Infarction, Center for Cardiovascular Translational 
+      Research, Peking University People's Hospital, Beijing, China. Electronic address: 
+      chenhongbj@medmail.com.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20190607
+PL  - England
+TA  - J Mol Cell Cardiol
+JT  - Journal of molecular and cellular cardiology
+JID - 0262322
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers
+MH  - Cardiovascular Diseases/diagnosis/*etiology/*metabolism/therapy
+MH  - Disease Management
+MH  - Disease Models, Animal
+MH  - *Disease Susceptibility
+MH  - Drug Delivery Systems
+MH  - Humans
+MH  - Lymphangiogenesis
+MH  - Lymphatic System/*immunology/*metabolism/pathology
+MH  - Lymphatic Vessels
+OTO - NOTNLM
+OT  - *Atherosclerosis
+OT  - *Identification
+OT  - *Lymphangiogenesis
+OT  - *Lymphatic vessels
+OT  - *Myocardial infarction
+EDAT- 2019/06/11 06:00
+MHDA- 2020/06/26 06:00
+CRDT- 2019/06/11 06:00
+PHST- 2019/03/24 00:00 [received]
+PHST- 2019/06/02 00:00 [revised]
+PHST- 2019/06/05 00:00 [accepted]
+PHST- 2019/06/11 06:00 [pubmed]
+PHST- 2020/06/26 06:00 [medline]
+PHST- 2019/06/11 06:00 [entrez]
+AID - S0022-2828(19)30122-1 [pii]
+AID - 10.1016/j.yjmcc.2019.06.002 [doi]
+PST - ppublish
+SO  - J Mol Cell Cardiol. 2019 Aug;133:99-111. doi: 10.1016/j.yjmcc.2019.06.002. Epub 2019 
+      Jun 7.
+
+PMID- 33478536
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210124
+IS  - 1749-8546 (Print)
+IS  - 1749-8546 (Electronic)
+IS  - 1749-8546 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2021 Jan 21
+TI  - Network pharmacology based research into the effect and mechanism of Yinchenhao 
+      Decoction against Cholangiocarcinoma.
+PG  - 13
+LID - 10.1186/s13020-021-00423-4 [doi]
+LID - 13
+AB  - BACKGROUND: Cholangiocarcinoma refers to an epithelial cell malignancy with poor 
+      prognosis. Yinchenhao decoction (YCHD) showed positive effects on cancers, and 
+      associations between YCHD and cholangiocarcinoma remain unclear. This study aimed to 
+      screen out the effective active components of Yinchenhao decoction (YCHD) using 
+      network pharmacology, estimate their potential targets, screen out the pathways, as 
+      well as delve into the potential mechanisms on treating cholangiocarcinoma. METHODS: 
+      By the traditional Chinese medicine system pharmacology database and analysis 
+      platform (TCMSP) as well as literature review, the major active components and their 
+      corresponding targets were estimated and screened out. Using the software Cytoscape 
+      3.6.0, a visual network was established using the active components of YCHD and the 
+      targets of cholangiocarcinoma. Based on STRING online database, the protein 
+      interaction network of vital targets was built and analyzed. With the Database for 
+      Annotation, Visualization, and Integrated Discovery (DAVID) server, the gene 
+      ontology (GO) biological processes and the Kyoto encyclopedia of genes and genomes 
+      (KEGG) signaling pathways of the targets enrichment were performed. The AutoDock 
+      Vina was used to perform molecular docking and calculate the binding affinity. The 
+      PyMOL software was utilized to visualize the docking results of active compounds and 
+      protein targets. In vivo experiment, the IC(50) values and apoptosis rate in PI-A 
+      cells were detected using CCK-8 kit and Cell Cycle Detection Kit. The predicted 
+      targets were verified by the real-time PCR and western blot methods. RESULTS: 32 
+      effective active components with anti-tumor effects of YCHD were sifted in total, 
+      covering 209 targets, 96 of which were associated with cancer. Quercetin, 
+      kaempferol, beta-sitosterol, isorhamnetin, and stigmasterol were identified as the 
+      vital active compounds, and AKT1, IL6, MAPK1, TP53 as well as VEGFA were considered 
+      as the major targets. The molecular docking revealed that these active compounds and 
+      targets showed good binding interactions. These 96 putative targets exerted 
+      therapeutic effects on cancer by regulating signaling pathways (e.g., hepatitis B, 
+      the MAPK signaling pathway, the PI3K-Akt signaling pathway, and MicroRNAs in 
+      cancer). Our in vivo experimental results confirmed that YCHD showed therapeutic 
+      effects on cholangiocarcinoma by decreasing IC(50) values, down-regulating apoptosis 
+      rate of cholangiocarcinoma cells, and lowering protein expressions. CONCLUSIONS: As 
+      predicted by network pharmacology strategy and validated by the experimental 
+      results, YCHD exerts anti-tumor effectsthrough multiple components, targets, and 
+      pathways, thereby providing novel ideas and clues for the development of 
+      preparations and the treatment of cholangiocarcinoma.
+FAU - Chen, Zhiqiang
+AU  - Chen Z
+AD  - The First School of Clinical Medical Sciences, Guangzhou University of Chinese 
+      Medicine, 510405, Guangzhou, China.
+FAU - Lin, Tong
+AU  - Lin T
+AD  - The First School of Clinical Medical Sciences, Guangzhou University of Chinese 
+      Medicine, 510405, Guangzhou, China.
+FAU - Liao, Xiaozhong
+AU  - Liao X
+AD  - The First School of Clinical Medical Sciences, Guangzhou University of Chinese 
+      Medicine, 510405, Guangzhou, China.
+FAU - Li, Zeyun
+AU  - Li Z
+AD  - The First School of Clinical Medical Sciences, Guangzhou University of Chinese 
+      Medicine, 510405, Guangzhou, China.
+FAU - Lin, Ruiting
+AU  - Lin R
+AD  - The First School of Clinical Medical Sciences, Guangzhou University of Chinese 
+      Medicine, 510405, Guangzhou, China.
+FAU - Qi, Xiangjun
+AU  - Qi X
+AD  - The First School of Clinical Medical Sciences, Guangzhou University of Chinese 
+      Medicine, 510405, Guangzhou, China.
+FAU - Chen, Guoming
+AU  - Chen G
+AD  - The First School of Clinical Medical Sciences, Guangzhou University of Chinese 
+      Medicine, 510405, Guangzhou, China.
+FAU - Sun, Lingling
+AU  - Sun L
+AD  - Department of Oncology, The First Affiliated Hospital of Guangzhou University of 
+      Chinese Medicine, No. 16, Jichang Road, Baiyun District, 510405, Guangzhou, China.
+FAU - Lin, Lizhu
+AU  - Lin L
+AUID- ORCID: 0000-0003-4707-291X
+AD  - Department of Oncology, The First Affiliated Hospital of Guangzhou University of 
+      Chinese Medicine, No. 16, Jichang Road, Baiyun District, 510405, Guangzhou, China. 
+      LizhuLin_LLZ@163.com.
+LA  - eng
+GR  - 2019XZZX-ZL001/National Science Foundation (NSFC) of China/
+PT  - Journal Article
+DEP - 20210121
+TA  - Chin Med
+JT  - Chinese medicine
+JID - 101265109
+PMC - PMC7818939
+OTO - NOTNLM
+OT  - Cholangiocarcinoma
+OT  - Mechanism
+OT  - Network pharmacology
+OT  - Yinchenhao decoction
+COIS- The authors declare no competing interests regarding the publication of this 
+      manuscript.
+EDAT- 2021/01/23 06:00
+MHDA- 2021/01/23 06:01
+CRDT- 2021/01/22 05:45
+PHST- 2020/08/18 00:00 [received]
+PHST- 2021/01/04 00:00 [accepted]
+PHST- 2021/01/01 00:00 [revised]
+PHST- 2021/01/22 05:45 [entrez]
+PHST- 2021/01/23 06:00 [pubmed]
+PHST- 2021/01/23 06:01 [medline]
+AID - 10.1186/s13020-021-00423-4 [pii]
+AID - 423 [pii]
+AID - 10.1186/s13020-021-00423-4 [doi]
+PST - epublish
+SO  - Chin Med. 2021 Jan 21;16(1):13. doi: 10.1186/s13020-021-00423-4.
