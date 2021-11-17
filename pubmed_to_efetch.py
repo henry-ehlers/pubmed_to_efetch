@@ -10,8 +10,8 @@ parser.add_argument('-in',
 	help    = "Input file to parse. Must be of type 'PUBMED'.", 
 	default = '%#$')
 parser.add_argument('-out',
-	help    = "Output file to which to parse output. Default = 'output.txt'",
-	default = "output.txt")
+	help    = "Output file to which to parse output. Default = 'output.pmd'",
+	default = "output.pmd")
 args = vars(parser.parse_args())
 
 # Ensure input file was specified 
