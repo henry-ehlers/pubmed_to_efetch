@@ -2,7 +2,7 @@
 
 ## The Data 
 
-A simple command-line executable script designed to convert PubMed reference list to PMF, in order to enable batch downloading of the listed publications via *efetch*. The PubMed reference file is a list of metadata fields and those fields' values separated by whitespace and a dash. Each metadata field and value pair is separated from the next by a newline, though some fields (such as the title in the example below) can fill mulitple lines:
+A simple command-line executable script designed to convert PubMed reference lists to PMF files, in order to enable batch downloading of the listed publications via *efetch*. The PubMed reference file is a list of metadata fields and those fields' values separated by whitespace and a dash. Each metadata field and value pair is separated from the next by a newline, though some fields (such as the title in the example below) can fill mulitple lines:
 ```
 	PMID- 32302568
 	OWN - NLM
